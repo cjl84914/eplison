@@ -11,7 +11,7 @@ redis
 
 ## 项目以文章分类为例：
 数据下载地址
-https://pan.baidu.com/s/1seb3KCBtCu2W5_WIrrRXpg
+https://pan.baidu.com/s/1VJyy66pWjK6Mu_dQQ3hKgw
 
 ## 运行步骤：
 - 运行redis
