@@ -23,7 +23,7 @@
         <mybatis-plus-boot-starter.version>2.1.9</mybatis-plus-boot-starter.version>
         <mybatisplus.version>2.1.8</mybatisplus.version>
         <HikariCP.version>2.4.13</HikariCP.version>
-        <fastjson.version>1.2.39</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <spark.ver>2.2.1</spark.ver>
         <springboot.ver>1.5.10.RELEASE</springboot.ver>
     </properties>
